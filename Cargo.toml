@@ -1,6 +1,6 @@
 [package]
 name = "rusty_german_types"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Pedro Ramos <pedrodevop@gmail.com>"]
 description = "Types for implementation of Exercises for a German learning project"
 edition = "2018"
