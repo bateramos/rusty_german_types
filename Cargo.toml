@@ -1,8 +1,10 @@
 [package]
 name = "rusty_types"
 version = "0.1.0"
-authors = ["ramos"]
+authors = ["Pedro Ramos <pedrodevop@gmail.com>"]
+description = "Types for implementation of Exercises for a German learning project"
 edition = "2018"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
