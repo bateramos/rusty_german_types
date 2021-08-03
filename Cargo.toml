@@ -5,5 +5,8 @@ authors = ["Pedro Ramos <pedrodevop@gmail.com>"]
 description = "Types for implementation of Exercises for a German learning project"
 edition = "2018"
 license = "Apache-2.0"
+documentation = "https://docs.rs/rusty_german_types/0.1.0/rusty_german_types/"
+homepage = "https://docs.rs/rusty_german_types/0.1.0/rusty_german_types/"
+repository = "https://github.com/bateramos/rusty_german_types"
 
 [dependencies]
